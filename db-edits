@@ -1,0 +1,9 @@
+
+-delete
+    name: "Crushed MechaniC4K3",
+    icons: ["crushedmechanic4k3"],
+    id: "crushedmechanic4k3",
+-add
+    name: "Crumbled MechaniC4K3",
+    icons: ["crumbledmechanic4k3"],
+    id: "crumbledmechanic4k3",
